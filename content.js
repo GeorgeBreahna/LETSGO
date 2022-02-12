@@ -1,5 +1,3 @@
-alert("FUCK ME")
-
 let guardian_headlines = document.getElementsByClassName('u-faux-block-link__overlay js-headline-text')
 
 let links = []

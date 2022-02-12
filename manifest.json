@@ -7,5 +7,8 @@
       "matches": ["<all_urls>"],
       "js": ["content.js"]
     }
-  ]
+  ],
+  "browser_action": {
+    "default_popup" : "popup.html"
+  }
 }

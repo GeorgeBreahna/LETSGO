@@ -1,0 +1,11 @@
+body {
+    width: 250px;
+    white-space: nowrap;
+}
+
+#header {
+    padding: 10px;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
